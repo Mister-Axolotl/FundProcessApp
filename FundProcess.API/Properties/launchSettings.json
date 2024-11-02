@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FundProcess.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52798;http://localhost:52799"
+    }
+  }
+}
